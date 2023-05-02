@@ -1,3 +1,7 @@
+import React from 'react'
+import { useParams } from 'react-router-dom'
+
 export default function Videos() {
-  return <div>VIDEOS</div>;
+    const { keyword } = useParams()
+    return <div>VIDEOS {keyword ? `${keyword}` : '응 없어'}</div>
 }
