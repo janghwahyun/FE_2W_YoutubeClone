@@ -1,0 +1,850 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "HENyX2ew8Q5KHRwybQh6OEtm7PA",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 832078,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "61_vsYBo8g0QtGh13uDlryPGfOc",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-07T09:25:40Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "간다효",
+                "description": "안녕하세요. 본업은 작가입니다. 부업은 메기에요. 만약 제 영상이 맘에 안드셨다면 아무것도 하지마세요 간다효 시작일 : 2020.10.26~ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/tG4R4bkxZRORUZKh7qUCt_ndRRTnR2O5iDZkGqmjbtS9vRfZByfJj2twroh7_X-eRh4rV-4Z95g=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/tG4R4bkxZRORUZKh7qUCt_ndRRTnR2O5iDZkGqmjbtS9vRfZByfJj2twroh7_X-eRh4rV-4Z95g=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/tG4R4bkxZRORUZKh7qUCt_ndRRTnR2O5iDZkGqmjbtS9vRfZByfJj2twroh7_X-eRh4rV-4Z95g=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2020-07-07T09:25:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ay3ux_bqgJc1XaK3wQ6re6h7yuc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UVZXw18xWwI"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-04T08:00:17Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "대한민국 택시의 미래",
+                "description": "간다효 #택시 #택시요금 효기심의 권력으로 읽는 세계사  온오프라인 절찬판매중 간다효 멤버십 가입   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UVZXw18xWwI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UVZXw18xWwI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UVZXw18xWwI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-04T08:00:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "z6PlSwvpknIUzoRW1P3qxBO4fR4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zbjd55ROt_c"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-03T08:00:26Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "현재 서울의 ㄹㅇ택시비",
+                "description": "간다효 #택시 #택시요금 효기심의 권력으로 읽는 세계사  온오프라인 절찬판매중 간다효 멤버십 가입   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zbjd55ROt_c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zbjd55ROt_c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zbjd55ROt_c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-03T08:00:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XnJvn-vgXaN5HBOVei-5Yf4UZBI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "V9iBinFzVJg"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T07:00:19Z",
+                "channelId": "UCpPB65X6Xhzmlx2A4DSQ-Jg",
+                "title": "메기가 알려주는 성교육",
+                "description": "메기 #돼지메기 #메기간다효 @catfish_gandahyo 간다효 후원1 : https://twip.kr/gandahyo 간다효 후원2 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V9iBinFzVJg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V9iBinFzVJg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V9iBinFzVJg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "메기간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T07:00:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "p665Ie3zzBn4E2ZbjFxAgs865qY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "V42sbjoRsu0"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-27T08:00:10Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "국민연금의 현실",
+                "description": "간다효 #국민연금 효기심의 권력으로 읽는 세계사  온오프라인 절찬판매중 간다효 멤버십 가입   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V42sbjoRsu0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V42sbjoRsu0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V42sbjoRsu0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-27T08:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fCJLvmyUI_KthKm_vATRVZKZDXc",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCpPB65X6Xhzmlx2A4DSQ-Jg"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-09T07:50:51Z",
+                "channelId": "UCpPB65X6Xhzmlx2A4DSQ-Jg",
+                "title": "메기간다효",
+                "description": "메기입니다. 어류에요. ◇ 간다효 문의 : gandahyo@gmail.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/sRrxh3JIKfdT8edD_Wq69eFgoJgb5YgUWm_MuSRNpmQhLiyWhZ9JqmG3Kx-EBwiSAlv4cqye=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/sRrxh3JIKfdT8edD_Wq69eFgoJgb5YgUWm_MuSRNpmQhLiyWhZ9JqmG3Kx-EBwiSAlv4cqye=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/sRrxh3JIKfdT8edD_Wq69eFgoJgb5YgUWm_MuSRNpmQhLiyWhZ9JqmG3Kx-EBwiSAlv4cqye=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "메기간다효",
+                "liveBroadcastContent": "live",
+                "publishTime": "2020-08-09T07:50:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Qa0oL4428Y9H18n2U3p7lAsvRLI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UsD0DKz81fo"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-25T08:30:12Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "국가 별 대통령이 타고 다니는 차",
+                "description": "간다효 #의전차량 #푸틴 #바이든 #마이바흐 #벤츠 효기심의 권력으로 읽는 세계사  온오프라인 절찬판매중 간다효 멤버십 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UsD0DKz81fo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UsD0DKz81fo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UsD0DKz81fo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-25T08:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NKFTQv-29fb8jGmjJt3EzIW7XCE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_ng-e_u5h1w"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-01T08:00:26Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "고산지대에서 태어나면 마라톤에 유리하다?",
+                "description": "간다효 #마라톤 #고산지대 #이봉주 #아프리카 효기심의 권력으로 읽는 세계사  온오프라인 절찬판매중 간다효 멤버십 가입   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_ng-e_u5h1w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_ng-e_u5h1w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_ng-e_u5h1w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-01T08:00:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gLeQVtfLaKgXJOeaMOYsEO9DOFs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AYsTH3MMpM0"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-28T08:00:03Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "마크롱에게 박수를 보냅니다",
+                "description": "간다효 #국민연금 #프랑스 #마크롱 효기심의 권력으로 읽는 세계사  온오프라인 절찬판매중 간다효 멤버십 가입   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AYsTH3MMpM0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AYsTH3MMpM0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AYsTH3MMpM0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-28T08:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LDsKm15W-jpnvw_5RuGJngu7zkU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oPJu-qh7MZM"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-03T11:30:08Z",
+                "channelId": "UC4wbC_nZ6xT5RLYf8U4preg",
+                "title": "간다효 VS 유읽남 - &quot;효기심 &amp; 권력 &amp; 국제정치&quot; - 진짜 개쩌는 팟캐스트 #11",
+                "description": "인생에 분기점을 만들어줄 감동의 후반전... https://youtu.be/_rF_-JyXuZg 간다효 님이 쓰신 '권력으로 읽는 세계사' ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oPJu-qh7MZM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oPJu-qh7MZM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oPJu-qh7MZM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "유읽남",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-03T11:30:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MZnYL9d_7DUqy8Rv6JKrph_bLPM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "z2GpO8YHan4"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-04T08:30:14Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "핵무기를 가지게 되면 뭐가 좋을까?",
+                "description": "간다효 효기심의 권력으로 읽는 세계사  온오프라인 절찬판매중 간다효 멤버십 가입   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z2GpO8YHan4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z2GpO8YHan4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z2GpO8YHan4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-04T08:30:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qNJWikrAHLu53bLWvYgyvOcds3c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rDuGKH37Mc8"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-21T09:45:14Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "아프가니스탄을 총정리한 영상 (FULL VER.)",
+                "description": "간다효 #아프가니스탄역사 #아프가니스탄 간다효카페 : https://cafe.naver.com/ganada0811 간다효 문의 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rDuGKH37Mc8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rDuGKH37Mc8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rDuGKH37Mc8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-21T09:45:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WvZxXJx8pro05uhw9fzt87czUe4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rIZFK8rTlIc"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-31T08:00:28Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "간다효 중국 고대사 (FULL VER.)",
+                "description": "간다효 #간다효중국 #중국풀버전 #간다효중국고대사 간다효 채팅규칙 : https://cafe.naver.com/ganada0811/668 간다효 문의 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rIZFK8rTlIc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rIZFK8rTlIc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rIZFK8rTlIc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-31T08:00:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Gxqawk8rGfVvh7VbnIL72z26cfo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TNb3zhk6pqQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-09T05:26:19Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "간다효가 정치얘기를 급 시작한 이유",
+                "description": "간다효 #선거제도 #정치 #연동형비례대표제 효기심의 권력으로 읽는 세계사  온오프라인 절찬판매중 간다효 멤버십 가입   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TNb3zhk6pqQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TNb3zhk6pqQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TNb3zhk6pqQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-09T05:26:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dIAvNtM91kkLLBGgeLkUC_C_W1U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KVklr2eFig8"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-07T07:46:12Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "러우전쟁 벌써 1년이 지났다",
+                "description": "간다효 #러시아우크라이나전쟁 #러시아 #우크라이나 #미국 #푸틴 #바이든 효기심의 권력으로 읽는 세계사   예스24: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KVklr2eFig8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KVklr2eFig8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KVklr2eFig8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-07T07:46:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SChDqkg2tvvhwUx6FBB_V5sAZSw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KNmMTxrDZLY"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-27T08:45:00Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "연개소문의 실체",
+                "description": "간다효 #연개소문 #고구려 간다효 채팅규칙 : https://cafe.naver.com/ganada0811/668 간다효 문의 : gandahyo@gmail.com ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KNmMTxrDZLY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KNmMTxrDZLY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KNmMTxrDZLY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-27T08:45:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ty-LfAqxTx6jfQq2JWest1DPhUM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7UIE7FqEjuw"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-04T07:00:05Z",
+                "channelId": "UCpPB65X6Xhzmlx2A4DSQ-Jg",
+                "title": "탈모가 걱정되는 메기",
+                "description": "메기 #돼지메기 #메기간다효 @catfish_gandahyo 간다효 후원1 : https://twip.kr/gandahyo 간다효 후원2 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7UIE7FqEjuw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7UIE7FqEjuw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7UIE7FqEjuw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "메기간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-04T07:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fMbUbuft9Ycxx_d6vFQL8pfWpFw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rCOBFMl8JnA"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-03T09:16:07Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "가톨릭 개신교의 정체 (FULL VER.)",
+                "description": "간다효 간다효 채팅규칙 : https://cafe.naver.com/ganada0811/668 간다효 문의 : gandahyo@gmail.com 간다효 후원1 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rCOBFMl8JnA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rCOBFMl8JnA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rCOBFMl8JnA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-03T09:16:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YpFBMq96X2spnbkK43cBJ3rxWzI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QUplBvHXLlc"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-03T15:00:20Z",
+                "channelId": "UC09aF98WnM8DL9YssTzAqqA",
+                "title": "2023년04월19일 - 프랑스의 연금개혁",
+                "description": "간다효다시보기 효기심의 권력으로 읽는 세계사   예스24: http://www.yes24.com/Product/Goods/117586969 교보문고: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QUplBvHXLlc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QUplBvHXLlc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QUplBvHXLlc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효 다시보기",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-03T15:00:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UuucrVzG4oLqM6Pb5iJCNZvfWmE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CqSpWL1xJrA"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-01T07:00:09Z",
+                "channelId": "UCpPB65X6Xhzmlx2A4DSQ-Jg",
+                "title": "슈퍼집 첫째아들의 판매특강",
+                "description": "메기 #돼지메기 #메기간다효 @catfish_gandahyo 간다효 후원1 : https://twip.kr/gandahyo 간다효 후원2 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CqSpWL1xJrA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CqSpWL1xJrA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CqSpWL1xJrA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "메기간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-01T07:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ckx6mmOC7PhnqCGZKA_8sRR5AxM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9cRs0HWLQxQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-03T08:30:14Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "2014년에 있었던 우크라이나의 실수",
+                "description": "간다효 #우크라이나 #유로마이단 #우크라이나사태 간다효 채팅규칙 : https://cafe.naver.com/ganada0811/668 간다효 문의 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9cRs0HWLQxQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9cRs0HWLQxQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9cRs0HWLQxQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-03T08:30:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Sbq1Srs-b4beLZy8UDG69J7As3o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "A0vxnPRETqU"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-12T08:30:01Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "몽골이 전쟁을 잘했던 진짜 이유",
+                "description": "간다효 #몽골 #몽골제국 #칭기즈칸 간다효 채팅규칙 : https://cafe.naver.com/ganada0811/668 간다효 문의 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A0vxnPRETqU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A0vxnPRETqU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A0vxnPRETqU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-12T08:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0kj0eZiP5IhMn9A-Z2K8-nAFhak",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yMsnjFTZEXU"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-13T07:23:58Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "이란-사우디아라비아의 역사(Full ver.)",
+                "description": "간다효 #이란 #사우디아라비아 #하메네이 #호메이니 #빈살만 #미국 #러시아 간다효 채팅규칙 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yMsnjFTZEXU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yMsnjFTZEXU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yMsnjFTZEXU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-13T07:23:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5iSs-wpIOmpkTabERthiqS2dWaY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wet6hgZX6Qo"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-11T07:38:04Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "체벌금지와 소년법에 대해서",
+                "description": "간다효 효기심의 권력으로 읽는 세계사  온오프라인 절찬판매중 간다효 멤버십 가입   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wet6hgZX6Qo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wet6hgZX6Qo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wet6hgZX6Qo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-11T07:38:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aRUUTdLoyeH1d2X6eLNXH7rlxXY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_S_4EJtOxjI"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-09T07:15:01Z",
+                "channelId": "UCgOrq46HHPLETItXdQzG0Og",
+                "title": "미국은 대만을 지켜줄 수 있을까?",
+                "description": "간다효 #대만 #중국 #미국 #바이든 간다효 채팅규칙 : https://cafe.naver.com/ganada0811/668 간다효 문의 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_S_4EJtOxjI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_S_4EJtOxjI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_S_4EJtOxjI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "간다효",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-09T07:15:01Z"
+            }
+        }
+    ]
+}

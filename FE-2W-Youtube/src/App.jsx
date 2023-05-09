@@ -1,13 +1,17 @@
 import './App.css'
 import { Outlet } from 'react-router-dom'
 import SearchHeader from './components/SearchHeader'
+import { QueryClientProvider, QueryClient } from '@tanstack/react-query'
+
+const queryClient = new QueryClient()
 
 function App() {
     return (
         <>
             <SearchHeader />
-            {/* children과 같은 효과 ! ✨ */}
-            <Outlet />
+            <QueryClientProvider client={queryClient}>
+                <Outlet />
+            </QueryClientProvider>
         </>
     )
 }

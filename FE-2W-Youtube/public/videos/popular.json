@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "x13nT9Tt6GmZqkwAbTR98nm0B_k",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7GyIIOe_gZVbyTvMG4D0hcusxgk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mgbZunbhsX0"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-15T15:45:01Z",
+                "channelId": "UCBVjMGOIkavEAhyqpxJ73Dw",
+                "title": "Charlie Puth - Perfect Pitch",
+                "description": "Charlie Puth explains how sound and music are an essential part of how he experiences the world. Available with YouTube ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mgbZunbhsX0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mgbZunbhsX0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mgbZunbhsX0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Maroon 5",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-08-15T15:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7SCaj4wDGtoZa5SrLMfd0f-o_8k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PXdp5NpWnqg"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-25T10:30:03Z",
+                "channelId": "UC3Qhl_FNeCtsOC46DVdYDsw",
+                "title": "What if we had Hair like a Chimpanzee? + more videos | #aumsum #kids #children #education #whatif",
+                "description": "Buy AumSum Merchandise: https://www.aumsum.com What if we had Hair like a Chimpanzee? Firstly, Chimpanzees are very ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PXdp5NpWnqg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PXdp5NpWnqg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PXdp5NpWnqg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AumSum - What If",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-25T10:30:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CdL1dhRTyVDkqledOaQ2QPcHZ5k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sbJYfReMq-o"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-06T16:02:18Z",
+                "channelId": "UCgLQkRAZsFN6fhqxFyx8qhQ",
+                "title": "Impulse - Ep 7 &quot;He Said, She Said&quot;",
+                "description": "After Henry and Clay have a fight, Cleo tries to make amends by inviting the Boones over for dinner. But the evening takes a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sbJYfReMq-o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sbJYfReMq-o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sbJYfReMq-o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Impulse",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-06-06T16:02:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UR4UyH88GJnEizKzXjVTKeYQ_88",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "n7uAvlRmo90"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-10T09:00:17Z",
+                "channelId": "UCBe14Y91GWm7lKAqn0zO_0g",
+                "title": "💨RUN2U💨",
+                "description": "줴이줴이! #Run2U #StayC #런투유 #스테이씨 #Run2Uchallenge #런투유챌린지 #kpop.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n7uAvlRmo90/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n7uAvlRmo90/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n7uAvlRmo90/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "조씨Jossi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-10T09:00:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "c8LROpV4lWgk8FRzQPIF4S0LnUI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "C7uuz2l4RQY"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-21T12:30:08Z",
+                "channelId": "UCcrVPrGy_U9cPONIVBU1M1g",
+                "title": "Alok &amp; Alan Walker - Headlight (Fajar Asia Remix) feat. KIDDO",
+                "description": "If you like it, don't forget to Like, Comment & Share it Follow my social media   : Instagram ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C7uuz2l4RQY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C7uuz2l4RQY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C7uuz2l4RQY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fajar Asia Music",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-21T12:30:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jXQR7c24PvN6UGLMJgG_vwIj_ME",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hjwaVo8H28w"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-23T13:00:20Z",
+                "channelId": "UC4rlAVgAK0SGk-yTfe48Qpw",
+                "title": "If You Can Solve This Riddle, NASA Wants You",
+                "description": "Can your brain operate quickly in a dangerous situation? Are you able to find the right solution under time pressure? Maybe you ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hjwaVo8H28w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hjwaVo8H28w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hjwaVo8H28w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BRIGHT SIDE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-23T13:00:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "coQE9Q7SBSYTw3xnhh4eTkw-PxQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZLIj2sCqIq4"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-04T23:17:42Z",
+                "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+                "title": "&quot;안 속을 수 없었다&quot;‥7억 &#39;꿀꺽&#39; 수법은? (2023.05.05/뉴스투데이/MBC)",
+                "description": "정부의 창업지원금을 받게 해주겠다고 접근해 수억 원을 가로챈 가짜 컨설턴트가 구속됐습니다. 허위경력을 내세우고 실제 지원사업 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZLIj2sCqIq4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZLIj2sCqIq4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZLIj2sCqIq4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MBCNEWS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-04T23:17:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dCpxlUmEkqaENKNQFgi2Hkk3HIY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-D3vcSGJw4Y"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T16:00:00Z",
+                "channelId": "UCNzmmbXIbMzlqE8nD1PBXfg",
+                "title": "Sindoor Ki Keemat 2 | 5 May 2023 Full Episode 05 सिंदूर की कीमत २ | Dangal  TV #दंगलटीवी",
+                "description": "To watch full episode Download Dangal Play App now: PlayStore URL: http://bitly.ws/xwXf Apple AppStore URL: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-D3vcSGJw4Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-D3vcSGJw4Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-D3vcSGJw4Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dangal TV Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T16:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Q5s09td0X2PNN9Lth5LEpvxAPao",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "knUSohqexZs"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T12:54:24Z",
+                "channelId": "UCiWLfSweyRNmLpgEHekhoAg",
+                "title": "The Lakers are afraid of Steph Curry... as they should be! - Brian Windhorst | Get Up",
+                "description": "Brian Windhorst, CJ McCollum and Monica McNutt react to the Los Angeles Lakers' 127-100 loss to the Golden State Warriors in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/knUSohqexZs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/knUSohqexZs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/knUSohqexZs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ESPN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T12:54:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DylYHmiouBMvnL7gPZahoEuuN7E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s_Q5VqVnEQ8"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T12:26:58Z",
+                "channelId": "UCiWLfSweyRNmLpgEHekhoAg",
+                "title": "&#39;We&#39;re just JOGGING down the floor?!&#39; - Jay Williams&#39; reaction to Lakers&#39; Game 2 loss to GSW | KJM",
+                "description": "Keyshawn Johnson, Max Kellerman and Jay Williams react to the Los Angeles Lakers' 127-100 loss to the Golden State Warriors ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s_Q5VqVnEQ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s_Q5VqVnEQ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s_Q5VqVnEQ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ESPN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T12:26:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-CmepCS6jeW-cKSYuf5lEw6N_eA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Iiukq_ilT0Y"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-11T15:00:01Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "Ep4 It‘s on you and I | BTS: Burn the Stage",
+                "description": "Can the show go on? BTS begin to wrap up their South America tour. Day-by-day, we see how the members passionately discuss ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Iiukq_ilT0Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Iiukq_ilT0Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Iiukq_ilT0Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BANGTANTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-04-11T15:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9PzhZcWoaGXWMot0uXw3b-ZI7D4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2DRD4xSUbhM"
+            },
+            "snippet": {
+                "publishedAt": "2019-02-07T13:00:00Z",
+                "channelId": "UCM1LVD5a5509fzL-4khritA",
+                "title": "🎥 TOY STORY 4 (2019) | Full Movie Trailer in Full HD | 1080p",
+                "description": "When a new toy called \"Forky\" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2DRD4xSUbhM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2DRD4xSUbhM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2DRD4xSUbhM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TRAILER CITY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-02-07T13:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2lJs0XipS2i3F-0yHY8A32nrRn4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HOxeu6xptQ4"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T11:26:10Z",
+                "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+                "title": "[단독] 주가조작단 관련사 속 낯익은 이름…박영수 전 특검이 &#39;법률고문&#39;으로 / JTBC 뉴스룸",
+                "description": "지금부터는 JTBC가 연속 보도하고 있는 '다단계 주가조작'과 관련한 소식입니다. 이 조작단이 운영하는 회사가 몇 개 있었는데, 여기 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HOxeu6xptQ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HOxeu6xptQ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HOxeu6xptQ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JTBC News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T11:26:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1OD4En3yp5FpzYlZwDc81lhdCvE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ajLZEjIYqeU"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T11:47:25Z",
+                "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+                "title": "일본 이시카와현 규모 6.5 강진‥주택 붕괴에 인명피해 (2023.05.05/뉴스데스크/MBC)",
+                "description": "일본 중북부 이시카와현에서 규모 6.5의 강진이 발생했습니다. 이로 인해 주택 붕괴와 추락 사고 등으로 인명 피해가 발생했고, 황금 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ajLZEjIYqeU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ajLZEjIYqeU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ajLZEjIYqeU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MBCNEWS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T11:47:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "i6Gj8CCSqqyE5VyNmSPEEmA7oPI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Kr7U4_BQ0uE"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T05:35:10Z",
+                "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+                "title": "[오늘 이 뉴스] 대선에서 간호법 약속 안 했다?..&quot;제가 설명&quot; 이준석 팩트체크 (2023.05.05/MBC뉴스)",
+                "description": "00:00 대선에서 간호법 약속 안 했나? 이준석 \"제가 정확히 설명할게요\" (2023.05.05/김종배의시선집중/MBC라디오) 01:50 간호법 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kr7U4_BQ0uE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kr7U4_BQ0uE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kr7U4_BQ0uE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MBCNEWS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T05:35:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PJoNsQWYImiDx-7EiwBaS5IDCKo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qtxLfNoilS4"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-04T23:30:11Z",
+                "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+                "title": "“길에 떨어진 지갑 줍지 마세요”…‘신종 범죄’ 주의보? [잇슈 키워드] / KBS  2023.05.05.",
+                "description": "잇슈 키워드 시간입니다. 첫 번째 키워드는 '지갑'. 길에 지갑이 떨어져 있다면, 어떻게 하시겠습니까. 경찰에 신고하거나 해서 주인을 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qtxLfNoilS4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qtxLfNoilS4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qtxLfNoilS4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-04T23:30:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "znykOuiV_5ZwUndOpnwuF_xg3pE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "58LyopFXRJo"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T13:26:18Z",
+                "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+                "title": "무너지고 넘어지고…동해 인접 노토반도 규모 6.5 강진 [9시 뉴스]  / KBS  2023.05.05.",
+                "description": "우리 동해와도 인접한 일본 노토 반도에서 오늘(5일) 오후 규모 6.5의 강진이 발생했습니다.건물이 무너지고 산사태가 나면서, 인명 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/58LyopFXRJo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/58LyopFXRJo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/58LyopFXRJo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T13:26:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VONi8_9j4betQ6eK0pznrcBiZD0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FGsl18B5jdk"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-04T13:17:03Z",
+                "channelId": "UC920m3pMPH45qztdhppZhwA",
+                "title": "힙합안에 숨겨진 개그 본능🤣 웃수저 에픽하이 &amp; 역대급 마녀사냥 #highlight#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.192",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f #유퀴즈 #유재석 #조세호 유퀴즈온더블럭 YOU QUIZ ON THE BLOCK ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FGsl18B5jdk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FGsl18B5jdk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FGsl18B5jdk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "유 퀴즈 온 더 튜브",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-04T13:17:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tDPtUaeZRHxTABoecB4SkQ-ScDE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FOaifcVgUr4"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T01:00:06Z",
+                "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+                "title": "[한눈에 이슈] 사고 차량 앞 분주한 움직임…전 공업사 직원의 작심 제보 / 2023.05.05.",
+                "description": "보험 재정 건전성을 훼손하고 보험료 부담을 가중하는 보험사기 적발액이 지난해 사상 최초로 1조 원을 넘었습니다. 이런 가운데 일부 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FOaifcVgUr4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FOaifcVgUr4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FOaifcVgUr4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T01:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YJLgQ0zq2ezZEdbjg3oUsZJWMsU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "N1p9_db4oEw"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T07:01:43Z",
+                "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+                "title": "[속보영상] 일본 이시카와현 규모 6.3 지진…NHK “쓰나미 우려 없어” / KBS 2023.05.05.",
+                "description": "오늘(5일) 오후 2시 42분쯤 일본 이시카와현에서 규모 6.3의 지진이 발생했다고 현지 공영방송 NHK가 보도했습니다. 보도에 따르면 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N1p9_db4oEw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N1p9_db4oEw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N1p9_db4oEw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T07:01:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "n19PpGDNYGX7bn3M3u1ct7wdQR0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PMuXUkVnbh4"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T14:23:06Z",
+                "channelId": "UCLZBXiS9ZrIXgKBs_SMfGBQ",
+                "title": "【完整版下集】韓國瑜:總統只需做好3件事情 回應郭韓配?力挺侯友宜? 少康戰情室 20230505",
+                "description": "本錄影遵守防疫規範。 ✓訂閱【少康戰情室】https://bit.ly/2sDiKcZ 完整版HD集數快速找➔https://bit.ly/2Etctbf 【少康重返國民黨選 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PMuXUkVnbh4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PMuXUkVnbh4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PMuXUkVnbh4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "少康戰情室",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T14:23:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nr6Swd2dtVZniGM2bbBSGeDVsIk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JZ5QlRzvJ0I"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T12:02:48Z",
+                "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+                "title": "빗속 3만 7천 관중 운집‥&#39;11초 만에 터진 골&#39; (2023.05.05/뉴스데스크/MBC)",
+                "description": "프로축구에서는 김상식 감독이 물러난 전북과 서울이 힘겨운 승부 끝에 비겼습니다. K리그 역대 최단 시간 골 기록도 나왔습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JZ5QlRzvJ0I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JZ5QlRzvJ0I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JZ5QlRzvJ0I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MBCNEWS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T12:02:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6XndjQcJlh1P7Z3u-CK6hVfoILw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "D6NrhBGPv4o"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T11:42:31Z",
+                "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+                "title": "박광온, 윤 대통령 회동 제안 거절‥&#39;협치&#39; 책임은 어디로? (2023.05.05/뉴스데스크/MBC)",
+                "description": "민주당 이재명 대표의 회동 요청을 거부해 왔던 대통령실이 최근 여당과 야당의 새로운 원내대표와의 만남을 제안한 바 있습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D6NrhBGPv4o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D6NrhBGPv4o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D6NrhBGPv4o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MBCNEWS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T11:42:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tPuQyQAhaaD6xatBK9DJTSqxK0c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bqTwFhFTLoM"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T12:39:12Z",
+                "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+                "title": "[자막뉴스] &quot;워싱턴에서 결정 내려졌다&quot;...커지는 확전 우려 / YTN",
+                "description": "무인기가 크렘린궁 위에서 폭발한 경위에 대해 우크라이나의 심리전인지 러시아의 자작극인지 추측이 무성한 가운데, 러시아는 한 발 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bqTwFhFTLoM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bqTwFhFTLoM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bqTwFhFTLoM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": " YTN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T12:39:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "g2n0Qgfy3FjZoYQuhPh9TRjNVDY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rkWynKFShaw"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T09:00:38Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - ‘B.P.M.’ Roll #17",
+                "description": "BLACKPINK #블랙핑크 #BPM #BORN_PINK_MEMORIES #Roll_17 #BORNPINK #WORLD_TOUR #BANGKOK #HONGKONG ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rkWynKFShaw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rkWynKFShaw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rkWynKFShaw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T09:00:38Z"
+            }
+        }
+    ]
+}
